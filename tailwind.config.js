@@ -4,14 +4,13 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#ff6347", // Tomato
-        secondary: "#2c3e50", // Dark Blue
+        primary: "#fff8e7", // Tomato
+        secondary: "#e12c2c", // Dark Blue
         background: "#f8f9fa", // Light Grey
         text: "#2c3e50",
       },
       fontFamily: {
-        sans: ['"Open Sans"', "sans-serif"],
-        serif: ['"Merriweather"', "serif"],
+        sans: ["Parkinsans", "sans-serif"],
       },
     },
   },

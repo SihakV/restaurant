@@ -2,8 +2,8 @@ import React from "react";
 
 const AboutUs = () => {
   return (
-    <div className="container mx-auto p-6">
-      <h1 className="text-3xl font-bold text-primary mb-4">About Us</h1>
+    <div className="container mx-auto p-6 text-center font-sans">
+      <h1 className="text-3xl font-bold text-secondary mb-4">About Us</h1>
       <p className="text-lg text-gray-700 leading-relaxed">
         Welcome to <strong>MyRestaurant</strong>, where we serve delicious food
         crafted with love and passion. Our journey began with a dream to create

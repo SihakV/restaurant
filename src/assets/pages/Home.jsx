@@ -4,7 +4,7 @@ import AboutUs from "../components/Aboutus";
 
 const Home = () => {
   return (
-    <div>
+    <div className="bg-primary">
       <HeroBanner />
       <AboutUs />
     </div>
